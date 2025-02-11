@@ -39,7 +39,7 @@ Feature Importance (XGBoost)
 
 # Key Findings:
 
-- Insurance Plan and Age are the most influential factors in predicting premium amounts.
+- _Insurance Plan_ and _Age_ are the most influential factors in predicting premium amounts.
 
 - Other contributing factors include BMI category (Obesity, Overweight), Risk Score, and Smoking Status.
 

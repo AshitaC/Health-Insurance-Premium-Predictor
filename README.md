@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict insurance premium amounts based on various demographic and health-related factors. It utilizes Linear Regression, Ridge Regression, and XGBoost Regressor, with XGBoost achieving the best performance.
+This project aims to predict insurance premium amounts based on various demographic and health-related factors. It utilizes **Linear Regression, Ridge Regression, and XGBoost Regressor** , with XGBoost achieving the best performance.
 
 ## Dataset
 

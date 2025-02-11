@@ -18,11 +18,11 @@ Insurance Details: Insurance Plan, Annual Premium Amount (Target Variable)
 
 ## Model Performance
 
-| Left |  Center  | Right |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+| Left |  Center  | Right | Right |
+|:-----|:--------:|------:|------:|
+| L0   | **bold** | $1600 | $1600 |
+| L1   |  `code`  |   $12 |   $12 |
+| L2   | _italic_ |    $1 |  $1 |
 Model
 
 | Model         | Linear Regression |Ridge Regression | XGBoost Regression|

@@ -45,6 +45,6 @@ Feature Importance (XGBoost)
 
 # Technologies Used
 
-- Python (pandas, numpy, scikit-learn, XGBoost)
+- Python (pandas, numpy, scikit-learn, XGBoost, Statsmodels)
 
 - Matplotlib & Seaborn (for data visualization)

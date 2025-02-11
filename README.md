@@ -18,20 +18,11 @@ Insurance Details: Insurance Plan, Annual Premium Amount (Target Variable)
 
 ## Model Performance
 
-| Left |  Center  | Right | Right |
+| Model |  Linear Regression  | Ridge Regression | XGBoost Regression |
 |:-----|:--------:|------:|------:|
-| L0   | **bold** | $1600 | $1600 |
-| L1   |  `code`  |   $12 |   $12 |
-| L2   | _italic_ |    $1 |  $1 |
-Model
-
-| Model         | Linear Regression |Ridge Regression | XGBoost Regression|
-
-| ------------- | ------------- |------------- |
-
-| MSE |5165611 |5165652  |1574451 |
-
-| RMSE  | 2272 |2272 | 1254 |
+| MSE   | 5165611 | 5165652 | 1574451 |
+| RMSE   |  2272  |   2272 |   1254 |
+| R2   |0.92 |    0.92 |  **0.98** |
 
 
 **XGBoost** significantly outperforms other models, achieving the lowest RMSE.

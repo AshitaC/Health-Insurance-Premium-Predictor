@@ -21,7 +21,7 @@ Insurance Details: Insurance Plan, Annual Premium Amount (Target Variable)
 | Model |  Linear Regression  | Ridge Regression | XGBoost Regression |
 |:-----|:--------:|------:|------:|
 | MSE   | 5165611 | 5165652 | 1574451 |
-| RMSE   |  2272  |   2272 |   1254 |
+| RMSE   |  2272  |   2272 |   **1254** |
 | R2   |0.92 |    0.92 |  **0.98** |
 
 
